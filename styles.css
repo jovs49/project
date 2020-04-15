@@ -1,0 +1,23 @@
+body {
+	background:gray;
+	color:yellow;
+	font-family:arial;
+	}
+	
+p { background:black;
+	color:white;
+	padding: 10px 20px 10px 20px;
+}
+.unit1{
+	color:red;
+	background:green;
+	}
+.unit2{
+	color:#123;
+	background:776;
+	}
+#specialUnit{
+	color:red;
+	background:blue;
+	}	
+	
